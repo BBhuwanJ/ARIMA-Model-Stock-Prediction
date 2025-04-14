@@ -32,13 +32,15 @@ https://bbhuwanj-arima.streamlit.app/
 ```bash
 git clone https://github.com/BBhuwanJ/ARIMA-Model-Stock-Prediction.git
 
+```
 ```bash
 cd lstm-model
-
+```
 # Install dependencies
 ```bash
 pip install -r requirements.txt
-
+```
 # Run the Model
 ```bash
 streamlit run ARIMA_Model.py
+```
