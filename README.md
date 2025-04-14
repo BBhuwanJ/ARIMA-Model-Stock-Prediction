@@ -4,7 +4,7 @@ A lightweight and interactive **Streamlit app** for forecasting stock prices usi
 
 --------------------------
 
-![App Demo](https://github.com/BBhuwanJ/LSTM-Model/blob/3f20b2897a047b948849de1f3a810eca45c1f854/assests/LSTM%20sample.png)
+![App Demo](https://github.com/BBhuwanJ/ARIMA-Model-Stock-Prediction/blob/1256a4e2f18148c27cc2173c9723f6cdecd60bbc/assets/ARIMA%20MODEL.png)
 
 --------------------------
 
